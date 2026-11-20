@@ -8,4 +8,11 @@ Using different historical stock data from Yahoo Finance, I compared different r
 ## Model Selection
 To select the model I the following 5 models Means Squared errors and selected he model with the lowest MSE:
 
-- Linear Re
+| Model | Cross Validation MSE | Test MSE |
+|---|---:|---:|
+| Linear | - | - |
+| Ridge | - | - |
+| Tree | - | - |
+| Forest | - | - |
+| SVR | - | - |
+
